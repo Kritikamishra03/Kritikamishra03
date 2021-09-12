@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kritikamishra03
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning pyhton
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on real-time project
 - 📫 You can reach me on my email
 
